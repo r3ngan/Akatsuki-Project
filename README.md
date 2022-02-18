@@ -7,7 +7,7 @@ Je vais vous montrer comment utiliser l'Akatsuki Selfbot !
 
 Clique sur Code puis Download ZIP
 
-![ScreenShot](https://cdn.discordapp.com/attachments/798846532978868264/823186987992875028/unknown.png)
+![ScreenShot](https://cdn.discordapp.com/attachments/943502479495139429/944357842595508244/unknown.png)
 ![ScreenShot](https://user-images.githubusercontent.com/79461945/111907498-e5f7af00-8a55-11eb-8e2d-4a9d5c3ff04a.png)
 
 
