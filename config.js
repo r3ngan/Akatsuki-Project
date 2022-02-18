@@ -1,7 +1,7 @@
 const token = ""; //ici met ton token ce qui permettra au selfbot de fonctionner
 const prefix = "."; //le prefix est la chose que tu devras mettre avant une cmd
-const color = "00ff00"; //une couleur HTML
-const image = ""; //met l'url d'une image que tu veux quel s'affiche en dessous des embeds
+const color = "00ff00"; //là pour la déco
+const image = ""; //ici pour le fun
 const msgconsole = "sltcv"; //ton message personalisé das la console
 
 
